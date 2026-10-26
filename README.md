@@ -1,2 +1,5 @@
 # brot
-Schulprojekt GitHub kennenlernen
+
+This is a school Project.
+Hello World.
+
